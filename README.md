@@ -2,8 +2,6 @@
 
 A middleware-first rate limiting layer built with FastAPI that enforces per-tier, per-endpoint-type request quotas using in-memory state only.
 
-**Live deployment:** https://santosh-nestack-submission.onrender.com
-
 ---
 
 ## How to Run
